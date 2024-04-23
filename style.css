@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: 	#696969;
+    font-family: "Montserrat", sans-serif;
+    height: 250svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+h2 {
+    color: #FFFFFF;
+}
+ p {
+
+    color: rgb(255,255,255);
+ }
+  li {
+    color: rgb(255,255,255);
+  }
+
+.tudo {
+
+        background-color: rgb( 0, 0, 0);
+        max-width: 700px;
+        padding: 36px;
+        border-radius: 32px;
+
+    }
+
+    
