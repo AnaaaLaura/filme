@@ -32,4 +32,27 @@ h2 {
 
     }
 
+    .botao > a {
+
+        width: 100%;
+        padding: 13px;
+        background-color: #696969;
+        border: none;
+        border-radius: 22px;
+
+        font-size: 15px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: aliceblue;
+    }
+
+    .botao > a:hover {
+
+        color: aliceblue;
+        background-color: #696969;
+        cursor: pointer;
+
+    }
+
     
