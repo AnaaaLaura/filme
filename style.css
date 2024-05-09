@@ -9,8 +9,9 @@ body {
     align-items: center;
 }
 
-h1 {
+header {
     color: #FFFFFF;
+    background-color: #0c0a09;
 }
 h2 {
     color: #FFFFFF;
